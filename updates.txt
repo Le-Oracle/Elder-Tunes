@@ -1,1 +1,3 @@
-Actualizaciones...
+Fecha [06/08/19] - Status: [Prueba] - [Completo] - [En progreso] - [Eliminado]
+
+Cambios: Probando.d
