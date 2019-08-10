@@ -1,4 +1,4 @@
 Fecha [10/08/19] - Status: [Prueba] - [Completo] - [En progreso] - [Eliminado]
 **
 
-[Prueba] > El comando "!minecraft" se encuentra funcional.
+[Prueba] > Cmd "!minecraft" se encuentra funcional.
