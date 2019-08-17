@@ -1,4 +1,4 @@
-Fecha [10/08/19] - Status: [Prueba] - [Completo] - [En progreso] - [Eliminado]
+Fecha [17/08/19] - Status: [Prueba] - [Completo] - [En progreso] - [Eliminado]
 **
 
-[Prueba] > Cmd "!minecraft" se encuentra funcional.
+[Completo] Formulario disponible > https://forms.gle/fjYcqYgpQqTh4Snp9
