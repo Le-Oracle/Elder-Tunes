@@ -1,4 +1,24 @@
-Fecha [17/08/19] - Status: [Prueba] - [Completo] - [En progreso] - [Eliminado]
-**
+Fecha [01/09/19] - Status: [Prueba] - [Completo] - [En progreso] - [Eliminado] - [Publicado] - [Descartado]
+** 
 
 [Completo] Formulario disponible > https://forms.gle/fjYcqYgpQqTh4Snp9
+
+[Completo] Servidor de Minecraft, v. 1.14.4 - Spigot - 26 plugins.
+
+[Completo] Sistema de autenticación de cuentas.
+
+[Descartado] Hasta próximo aviso, hemos deshabilitado los Minijuegos.
+
+[En progreso] Spawn del mapa Survival.
+
+[En progreso] Lugares cómodos donde podremos disfrutar de un Meet&Greet.
+
+[En progreso] Intercambios locales (De persona a persona).
+
+[Pruebas] Mascotas.
+
+[Completo] Elevadores.
+
+[Pruebas] Delimitaciones protegidas.
+
+[Completo] Privacidad de puertas, cofres, etc.
